@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, MongoDB, Express, and AI image generation using OpenAI API)</b>
-  - [](https://github.com/joblas/dall-e)
+  - [https://jblas-dall-e.com/](https://github.com/joblas/dall-e)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
