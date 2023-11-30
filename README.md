@@ -1,9 +1,9 @@
 <h1>Hi, I'm Joe! <br/><a href="https://github.com/joblas">Developer</a>, <a href="https://medium.com/@joeblas">Cloud Engineer</a>, <a href="https://www.linkedin.com/in/joseph-blas/">Autonomeister</a></h1>
 
-<h2>👨‍💻 Software and Cloud Development Projects:</h2>
+<h2>👨‍💻 Cloud and Web Development Project:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Google Cloud Platform)</b>
+  - [Deployment of a Private Communication in a MultiCloud Environment (AWS and GCP) 100% Automated Using Terraform](https://medium.com/@joeblas/deployment-of-a-private-communication-in-a-multicloud-environment-aws-and-gcp-100-automated-e9594d7f9615)
 
 - <b>Full Stack Web App (React, NodeJS, MongoDB, Express, and AI image generation using OpenAI API)</b>
   - [https://jblas-dall-e.com/](https://github.com/joblas/dall-e)
