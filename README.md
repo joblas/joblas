@@ -7,7 +7,7 @@
 
 - <b>Full Stack Web App (React, NodeJS, MongoDB, Express, and AI image generation using OpenAI API)</b>
   - [https://jblas-dall-e.com/](https://github.com/joblas/dall-e)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
