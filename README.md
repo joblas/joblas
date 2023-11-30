@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [100% Managed Wiki deployment using Microsoft Azure App Service (Docker-based) and Azure Database for PostgreSQL Servers.](https://medium.com/@joeblas/100-managed-wiki-deployment-using-microsoft-azure-app-service-docker-based-and-azure-database-b194180a4028)
   -  [Serverless website deployment 100% automated in multiple environments (Test, QA and Production) using Azure DevOps Repos and Pipelines (CI/CD)](https://medium.com/@joeblas/serverless-website-deployment-100-automated-in-multiple-environments-test-qa-and-production-f92968c5d7c8)
+  - [Infrastructure modernization, from on-premises to Microsoft Azure with backup solution using Azure Files, Azure Backup and Recovery Services Vault.](https://medium.com/@joeblas/infrastructure-modernization-from-on-premises-to-microsoft-azure-with-backup-solution-using-azure-6f511414103)
 
 - <b>Full Stack Web App (React, NodeJS, MongoDB, Express, and AI image generation using OpenAI API)</b>
   - [https://jblas-dall-e.com/](https://github.com/joblas/dall-e)
