@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud and Web Development Project:</h2>
 
-- <b>Google Cloud Platform)</b>
+- <b>Google Cloud Platform</b>
   - [Deployment of a Private Communication in a MultiCloud Environment (AWS and GCP) 100% Automated Using Terraform](https://medium.com/@joeblas/deployment-of-a-private-communication-in-a-multicloud-environment-aws-and-gcp-100-automated-e9594d7f9615)
 
 - <b>Full Stack Web App (React, NodeJS, MongoDB, Express, and AI image generation using OpenAI API)</b>
