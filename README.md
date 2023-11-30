@@ -5,6 +5,7 @@
 - <b>Google Cloud Platform</b>
   - [Deployment of a Private Communication in a MultiCloud Environment (AWS and GCP) 100% Automated Using Terraform](https://medium.com/@joeblas/deployment-of-a-private-communication-in-a-multicloud-environment-aws-and-gcp-100-automated-e9594d7f9615)
   -  [Migration of Standalone Application and Database from VM (Google Compute Engine) to a modern architecture, using Google Kubernetes Engine (APP) + Cloud SQL (DB) with HA](https://medium.com/@joeblas/migration-of-standalone-application-and-database-from-vm-google-compute-engine-to-a-modern-3ffc84cc6a0b)
+  -  [Lift & Shift + Application Modernization: Converting a legacy application to run in containers on Google Kubernetes Engine (GKE) using Anthos.](https://medium.com/@joeblas/lift-shift-application-modernization-converting-a-legacy-application-to-run-in-containers-on-76cdcecbefaa)
  
 - <b>Microsoft Azure</b>
   - [100% Managed Wiki deployment using Microsoft Azure App Service (Docker-based) and Azure Database for PostgreSQL Servers.](https://medium.com/@joeblas/100-managed-wiki-deployment-using-microsoft-azure-app-service-docker-based-and-azure-database-b194180a4028)
