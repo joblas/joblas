@@ -4,13 +4,13 @@
 
 - <b>Google Cloud Platform</b>
   - [Deployment of a Private Communication in a MultiCloud Environment (AWS and GCP) 100% Automated Using Terraform](https://medium.com/@joeblas/deployment-of-a-private-communication-in-a-multicloud-environment-aws-and-gcp-100-automated-e9594d7f9615)
-  -  [Automation Using Python on Google Cloud — IAM Service Accounts](https://medium.com/@joeblas/automation-using-python-on-google-cloud-iam-service-accounts-4d70a1004a4c)
+  -  [Migration of Standalone Application and Database from VM (Google Compute Engine) to a modern architecture, using Google Kubernetes Engine (APP) + Cloud SQL (DB) with HA](https://medium.com/@joeblas/migration-of-standalone-application-and-database-from-vm-google-compute-engine-to-a-modern-3ffc84cc6a0b)
 
 - <b>Full Stack Web App (React, NodeJS, MongoDB, Express, and AI image generation using OpenAI API)</b>
   - [https://jblas-dall-e.com/](https://github.com/joblas/dall-e)
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+   -  [Automation Using Python on Google Cloud — IAM Service Accounts](https://medium.com/@joeblas/automation-using-python-on-google-cloud-iam-service-accounts-4d70a1004a4c)
 
 
 <!--
