@@ -19,7 +19,7 @@
 
 
 - <b>Full Stack Web App (React, NodeJS, MongoDB, Express, and AI image generation using OpenAI API)</b>
-  - [jblas-dall-e.com/](https://github.com/joblas/dall-e/)
+  - [jblas-dall-e.com - Code](https://github.com/joblas/dall-e)  - [jblas-dall-e.com](https://github.com/joblas/dall-e/)
 
 - <b>Python</b>
    -  [Automation Using Python on Google Cloud — IAM Service Accounts](https://medium.com/@joeblas/automation-using-python-on-google-cloud-iam-service-accounts-4d70a1004a4c)
