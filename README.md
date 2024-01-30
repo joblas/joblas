@@ -25,7 +25,7 @@
    -  [Automation Using Python on Google Cloud — IAM Service Accounts](https://medium.com/@joeblas/automation-using-python-on-google-cloud-iam-service-accounts-4d70a1004a4c)
 
 - <b>DevOps</b>
-   -  [CI/CD Pipeline for a Cloud Resume - Code](https://github.com/joblas/cloud_resume)
+   -  [My cloud resume using CI/CD pipeline with Firebase Hosting and Google Cloud Build](https://github.com/joblas/cloud_resume)
    -  [cloudyjoe.com](https://cloudyjoe.com/)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
