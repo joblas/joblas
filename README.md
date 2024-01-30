@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joe! <br/><a href="https://github.com/joblas">Software Developer</a>, <a href="https://medium.com/@joeblas">Cloud Developer</a>, <a href="https://www.linkedin.com/in/joseph-blas/">Autonomeister</a></h1>
+<h1>Hi, I'm Joe! <br/><a href="https://github.com/joblas">IT Professional</a>, <a href="https://medium.com/@joeblas">Cloud Developer</a>, <a href="https://www.linkedin.com/in/joseph-blas/">Autonomeister</a></h1>
 
 <h2>👨‍💻 Cloud and Web Development Projects:</h2>
 
