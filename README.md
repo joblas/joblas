@@ -19,7 +19,7 @@
 
 
 - <b>Full Stack Web App (React, NodeJS, MongoDB, Express, and AI image generation using OpenAI API)</b>
-  - [jblas-dall-e.com - Code](https://github.com/joblas/dall-e)  
+  - [Github - Code Repository](https://github.com/joblas/dall-e)  
   - [jblas-dall-e.com](https://github.com/joblas/dall-e/)
 
 - <b>Python</b>
