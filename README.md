@@ -24,7 +24,7 @@
 
 - <b>Python</b>
    -  [Automation Using Python on Google Cloud — IAM Service Accounts](https://medium.com/@joeblas/automation-using-python-on-google-cloud-iam-service-accounts-4d70a1004a4c)
-   -  [A Youtube and Web Summarizer using URLs](https://github.com/joblas/flask_summarizer)
+   -  [A Youtube and Web Summarizer using Flask](https://github.com/joblas/flask_summarizer)
 
 - <b>DevOps</b>
    -  [My cloud resume using CI/CD pipeline with Firebase Hosting and Google Cloud Build](https://github.com/joblas/cloud_resume)
