@@ -35,7 +35,7 @@
 
 - **AI Image Generation Web App**
   - [GitHub Repository](https://github.com/joblas/dall-e)
-  - [Live Demo](https://github.com/joblas/dall-e/)
+  - [Live Demo](https://jblas-dall-e.com/)
   
   *React, NodeJS, MongoDB, Express, and OpenAI API*
 
