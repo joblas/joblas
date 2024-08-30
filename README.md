@@ -53,6 +53,15 @@
 - **[Personal Website](https://cloudyjoe.com/)**
   My professional portfolio
 
+### A.I. Generative Projects
+
+- **[A Friends Aftermarket Honda](https://app.runwayml.com/creation/bcc3ebbd-77d8-4719-a424-ddfa9c55240c)**
+  RunwayML
+- **[Guru Confucius](https://vimeo.com/manage/videos/888061705)**
+  Vimeo 11/2023
+- **[Joverine](https://vimeo.com/manage/videos/1003363693)**
+  Vimeo 08/2024
+  
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
