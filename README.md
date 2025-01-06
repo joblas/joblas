@@ -2,7 +2,7 @@
 
 **[IT Professional](https://github.com/joblas) | [Cloud / Web App Developer](https://medium.com/@joeblas) | [Autonomeister](https://www.linkedin.com/in/joseph-blas/)**
 
-## 👨‍💻 Cloud and Web Development Projects
+## 👨‍💻 Cloud and Web App Development Projects
 
 ### Google Cloud Platform
 
