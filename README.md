@@ -1,6 +1,6 @@
 # Hi, I'm Joe! 👋
 
-**[IT Professional](https://github.com/joblas) | [Cloud Developer](https://medium.com/@joeblas) | [Autonomeister](https://www.linkedin.com/in/joseph-blas/)**
+**[IT Professional](https://github.com/joblas) | [Cloud / Web App Developer](https://medium.com/@joeblas) | [Autonomeister](https://www.linkedin.com/in/joseph-blas/)**
 
 ## 👨‍💻 Cloud and Web Development Projects
 
