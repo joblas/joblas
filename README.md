@@ -1,4 +1,4 @@
-# Hi, I'm Joe! 👋
+# Welcome to my Github page 👋
 
 **[IT Professional](https://github.com/joblas) | [Cloud / Web App Developer](https://medium.com/@joeblas) | [Autonomeister](https://www.linkedin.com/in/joseph-blas/)**
 
