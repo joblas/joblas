@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=joblas.joblas" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Joseph+Blas!;AI-Augmented+Full-Stack+Developer!;Quasi-Technocrat+{(0-0)};" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Joseph+Blas!;Generative-AI+Full-Stack+Developer!;Quasi-Technocrat+{(0-0)};" />
 </h1>
 
 <h3 align="center">🚀 React Native • Supabase • Stripe | San Diego, CA | Open to 150k+ roles 🚀</h3>
