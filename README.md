@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Joseph+Blas!;Generative-AI+Full-Stack+Developer!;Quasi-Technocrat+{(0-0)};" />
 </h1>
 
-<h3 align="center">🚀 React Native • Supabase • Stripe | San Diego, CA | Open to 150k+ roles 🚀</h3>
+<h3 align="center">🚀 Generative AI Full-Stack Developer • React Native • Supabase • Stripe | San Diego, CA | Open to 150k+ roles 🚀</h3>
 
 <br/>
 
