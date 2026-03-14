@@ -12,11 +12,13 @@
 
 🔭 **Currently building**: [The Skate Workshop](https://theskateworkshop.app) - Live coaching app in React Native Beta
 
+🏰 **Latest launch**: [RenFaire Guide](https://renfaireguide.com) - The largest Renaissance Faire directory (218+ listings across all 50 states)
+
 💼 **Running**: [Joe's Tech Solutions LLC](https://joestechsolutions.com) - Full-stack web/mobile for small businesses
 
 🤖 **AI Projects**: [DALL-E Clone](https://jblas-dall-e.com) • [ZenFu AI Law Firm](https://github.com/joblas/zenfu_ai_lawfirm) • [LLM Apps Collection](https://github.com/joblas/awesome-llm-apps)
 
-🌱 **Currently exploring**: CrewAI, RAG Systems, Private AI Infrastructure
+🌱 **Currently exploring**: Multi-Agent Orchestration, Private AI Infrastructure, SEO Automation
 
 💬 Ask me about **React Native, Supabase, Stripe, AI Agents, or spec-driven workflows [here](https://github.com/joblas/joblas/issues)**
 
@@ -67,6 +69,33 @@
 
 <hr/>
 
+<h2 align="center">🏰 Featured Project: RenFaire Guide 🏰</h2>
+<br/>
+<div align="center">
+  <a href="https://renfaireguide.com">
+    <img src="https://img.shields.io/badge/🏰_Live_Site-renfaireguide.com-8B4513?style=for-the-badge" />
+  </a>
+</div>
+<br/>
+
+<div align="center">
+
+**The most comprehensive Renaissance Faire directory in the US — 218+ festivals across all 50 states**
+
+| Tech | Details |
+|------|---------|
+| **Frontend** | Next.js 15 + TypeScript + Tailwind CSS |
+| **Database** | Supabase PostgreSQL (pg_trgm fuzzy search, RLS) |
+| **Hosting** | Vercel (SSG + ISR for 200+ pages) |
+| **SEO** | Schema.org Event structured data, dynamic sitemaps, 90+ indexed pages |
+| **Monetization** | Booking.com + ThredUp affiliate integrations (Awin) |
+| **Design** | Custom warm burgundy/gold design system, Framer Motion animations |
+| **Built With** | AI-augmented development (Claude Code + 24-agent orchestration) |
+
+</div>
+
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -74,7 +103,7 @@
     <br/>
     <img src="https://skillicons.dev/icons?i=supabase,postgres,firebase,mongodb,docker,kubernetes,aws,gcp" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=nextjs,flask,git,github,vscode,figma,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=nextjs,flask,git,github,vscode,figma,linux,vercel" />
 </div>
 
 <br/>
@@ -119,6 +148,7 @@
 
 | Recent Projects | Description |
 |-----------------|-------------|
+| [RenFaire Guide](https://renfaireguide.com) | Renaissance Faire directory — 218+ listings, Next.js + Supabase |
 | [The Skate Workshop](https://theskateworkshop.app) | Live coaching app - React Native Beta |
 | [HBrothers Website](https://github.com/joblas/hbrothers-website) | Website redesign using Google AI Studio |
 | [Cbarrgs Vibe Haven](https://github.com/joblas/cbarrgs-vibe-haven) | Artist portfolio (Cbarrgs.com) |
