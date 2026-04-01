@@ -142,28 +142,29 @@
 
 </div>
 
-<hr/>
+<br/>
 
-<h2 align="center">🤖 Lurkr AI Operations Center 🤖</h2>
+<details>
+<summary>🤖 <strong>Under the Hood: Lurkr AI Operations Center</strong> — 30-agent AI team powering my development workflow</summary>
 <br/>
 
 <div align="center">
 
-**30-agent AI team powered by OpenClaw — autonomous engineering, business, and client operations**
-
 <img src="./lurkr-architecture.png" alt="Lurkr AI Operations Architecture" width="100%" />
 
-<br/>
-
-| Component | Details |
-|-----------|---------|
-| **Orchestrator** | Lurkr (Claude Opus 4.6) — AI Chief of Staff |
-| **Agents** | 30 specialized agents across 4 divisions |
-| **Infrastructure** | OpenClaw Gateway, Telegram, Slack, Tailscale |
-| **Knowledge** | Supabase pgvector + Knowledge Graph (327 entities) |
-| **MCP Servers** | 6 servers, 53+ tools (Supabase, Tavily, Notion, Figma) |
-
 </div>
+
+I built a 30-agent AI team on OpenClaw that autonomously handles engineering, business development, and client operations. **Lurkr** (Claude Opus 4.6) acts as my AI Chief of Staff — I talk to one agent, and it silently delegates across 4 specialized divisions.
+
+| | |
+|---|---|
+| **30 Agents** | Engineering, Business & Growth, Client Ops, Skate Workshop |
+| **6 MCP Servers** | Supabase, Tavily, Notion, Figma, 21st.dev, Stitch |
+| **Knowledge Graph** | Supabase pgvector + 327 entities, 635 relationships |
+| **Channels** | Telegram, Slack, Tailscale HTTPS |
+| **Models** | Claude Opus 4.6, Sonnet 4.5, Gemini 3 Flash |
+
+</details>
 
 <br/>
 
